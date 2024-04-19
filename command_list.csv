@@ -1,0 +1,48 @@
+    1   git config --global user.name "Vladimir Diachkov"
+    2  git config --global user.email vl140379@gmail.com
+    3  git config
+    4  git config get-all
+    5  git config --get-all
+    6  git config
+    7  git config --global
+    8  git config --[no-]global 
+    9  git config --list
+   10  git clone 
+   11  git clone HW_10
+   12  git clone https://github.com/VD-kh/HW_10
+   13  cd HW_10
+   14  touch text_ignore.txt
+   15  ls -l
+   16  git status
+   17  git add*
+   18  git add *
+   19  git add.
+   20  git add .
+   21  git status
+   22  git commit
+   23  git status
+   24  touch main_test.txt
+   25  git status
+   26  git add .
+   27  git status
+   28  git commit
+   29  git push
+   30  git checkout -b develop
+   31  git checkout develop
+   32  touch develop_test.txt
+   33  ls -l
+   34  git add .
+   35  git stsatus
+   36  git status
+   37  commit
+   38  git commit
+   39  git ststus
+   40  git status
+   41  git add .
+   42  git commit
+   43  git status
+   44  checkout main
+   45  git checkout main
+   46  git merge develop
+   47  git log
+   48  history > command_list.csv
